@@ -1,0 +1,121 @@
+section{margin-top: 70px;}
+h1,h2,h3,h4,h5,h6{font-weight: bold;
+    color: #333365;}
+
+
+header{background-color: #ffe9e952;}
+.navsec{background-color: #ffe9e952;}
+.b-img {
+    max-width: 100%;
+    max-height: 100%;
+    }   
+    .bannersec{    padding: 109px 0px;
+    }
+    nav{    background-color: #96535e1f;}
+    .banner-para{
+        float: right;
+        
+    }
+    .banner-head {
+        font-weight: bold;
+        font-size: 60px;
+        letter-spacing: -2px;
+        color: #f9c059;
+        line-height: 45px;
+    }
+    h1.banner-head2 {
+        font-weight: bold;
+        font-size: 60px;
+        letter-spacing: -2px;
+        color: #3b3b88;
+        line-height: 45px;
+    }
+    button,.btn {
+        border: none;
+        padding: 12px 32px;
+        border-radius: 10px;
+        background-color: #2206bba3;
+        color: white;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .nav-con{
+        font-weight: bold;
+    margin: 0px 12px;
+    }
+    .card.h-100 {
+        border: none;
+        box-shadow: 0px 0px 10px #c7bbbb47;
+        border-radius: 18px;
+    }
+    #productimg{
+     background-color: #d3d3d354;
+     border-radius: 15px;
+    height: 340px;
+    margin: 15px;
+    }
+    #productimg2{
+        background-color: #d3d3d354;
+        border-radius: 15px;
+       height: 340px;
+      
+    }
+    #sbimg{width: 101%;height: 100%;
+    padding: 24px 17px;}
+
+    #sbbox{border: none;
+    background-color: lightgray;
+    width: 400px;
+height: 117px;}
+#sbimg img{width: 68px;}
+.sb-box {
+    width: 451px;
+    height: 112px;
+  
+    margin-bottom: 20px;
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    border-radius: 17px;
+    box-shadow: 0px 8px 10px #c7bbbb47;
+}
+.sb-img img {
+    width: 55%;
+    height: 73%;
+    padding-left: 20px;
+}
+
+.promotion-box{    height: 400px;
+    background-color: #69c578f2;}
+    .promotion-box h1{    text-align: center;
+        font-size: 50px;}
+.promotion-box p{    width: 600px;
+    text-align: center;
+    font-weight: 500;
+}
+input[type="text"] {
+    width: 100%;
+    border-radius: 50px;
+    border: 1px solid white;
+    padding: 14px;
+    margin-top: 18px;
+    background-color: transparent;
+}
+.input-box{position: relative;}
+button#subbtn {
+    position: absolute;
+    right: 5px;
+    top: 20px;
+    border-radius: 50px;
+} 
+.promotion-box div h1{    color: white;
+    margin-bottom: 20px;
+}
+.promotion-box div p{    color: white;
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color: orange;
+}
+#list a:hover{color: orange;}
+.sb-box:hover{background-color: orange;}
